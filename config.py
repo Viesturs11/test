@@ -1,0 +1,1 @@
+maksimalais daudzums 10
