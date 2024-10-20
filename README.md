@@ -3,3 +3,5 @@ izmainas nr 3
 Viesturs testa repo
 Test no laptop
 sdasdasdsd
+  super laiks
+
